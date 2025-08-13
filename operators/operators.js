@@ -47,3 +47,15 @@ let f=3;
 f **=3;
 console.log(f);
 
+let v1=20;
+let v2="hello"
+console.log(v1===v2)
+
+let v3=20;
+let v4="hello"
+console.log(v3==v4)
+
+let v5=20;
+let v6="hello"
+console.log(v5+v6)
+
