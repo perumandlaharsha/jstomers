@@ -59,3 +59,7 @@ let v5=20;
 let v6="hello"
 console.log(v5+v6)
 
+let userName = "admin";
+
+let password = 123456789;
+
