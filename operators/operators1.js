@@ -79,4 +79,18 @@ console.log(~b3);
 console.log(~b4);
 console.log(5>>2);
 
+let admin="admin";
+let pass=1122334455;
+if(true){
+    if(admin==="admin"&&pass ===1122334455){
+    console.log("Welcome Admin");
+}
+else{
+    console.log("Invalid User");
+    }
+}
+ else{
+        console.log("Not logged In")
+    }
+    console.log(true ? admin==="admin"&&pass ===1122334455 ? "Welcome admin":"invalid user" :"not logged in");
 
