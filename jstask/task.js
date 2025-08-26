@@ -366,7 +366,7 @@ else
 
 /* Task-12 */
 
-let name = "Jeevan";
+let name = "Harsha";
 let pass = 1234;
 let OTP = true;
 if(name === true && pass === true)
